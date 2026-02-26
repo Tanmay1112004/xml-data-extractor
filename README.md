@@ -56,7 +56,7 @@ Clean data. Clear structure. Zero friction.
 ### 🔹 Local Setup
 
 ```bash
-git clone https://github.com/yourusername/xml-data-extractor.git
+git clone https://github.com/Tanmay112004/xml-data-extractor.git
 cd xml-data-extractor
 pip install -r requirements.txt
 python xml_data_extractor.py
@@ -100,19 +100,5 @@ Paste your script and run — Gradio generates a public share link instantly.
 ## 📜 License
 
 MIT License.
-
----
-
-### Quick Pro Tip
-
-If you have actual screenshots from your app, replace the preview section with:
-
-```html
-<div align="center">
-  <img src="demo/structure.png" width="900" style="border-radius:10px;">
-</div>
-```
-
-Real screenshots > generic visuals. Always.
 
 ---
