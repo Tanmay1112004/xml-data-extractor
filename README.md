@@ -8,10 +8,24 @@ Perfect for developers, analysts, QA engineers, and students working with deeply
 
 ---
 
+## 🖼️ Application Preview
+
+![Image](https://gradio-builds.s3.amazonaws.com/assets/PDFDisplay.png)
+
+![Image](https://i.sstatic.net/sVyxf.png)
+
+![Image](https://www.researchgate.net/publication/2559129/figure/fig2/AS%3A667809143066628%401536229515596/General-Architecture-of-the-XML-Toolkit-The-general-structure-of-the-IV-repository-XML.ppm)
+
+![Image](https://www.jqueryscript.net/images/json-xml-data-tree.jpg)
+
+> Interactive Gradio interface with structure explorer, JSON conversion, and dynamic Plotly visualizations.
+
+---
+
 ## 🧠 Why This Project Matters
 
-Let’s be real — XML can get ugly fast.
-Nested tags, inconsistent schemas, unreadable formatting…
+Let’s be real — XML can get messy fast.
+Nested tags. Inconsistent schemas. Zero readability.
 
 This tool eliminates that friction by providing:
 
@@ -22,7 +36,7 @@ This tool eliminates that friction by providing:
 * ✨ Instant XML beautifier
 * ☁️ Works locally or on Google Colab
 
-Clean data. Clear structure. Zero guesswork.
+Clean data. Clear structure. Zero friction.
 
 ---
 
@@ -64,27 +78,16 @@ Paste your script and run — Gradio generates a public share link instantly.
 
 ## 🖥️ Application Workflow
 
-1. **Upload or Paste XML**
-2. View **hierarchical structure**
-3. Convert to structured **JSON**
-4. Generate automatic **insights & tag statistics**
-5. Visualize tag frequency via **interactive charts**
+1. Upload or paste XML
+2. Explore hierarchical structure
+3. Convert to structured JSON
+4. Generate tag statistics
+5. Visualize distributions with interactive charts
 6. Export cleaned XML or JSON
 
 ---
 
-## 📊 Example Insights Generated
-
-* Total unique tags
-* Most frequent elements
-* Nested structure depth
-* Repeated schema patterns
-
-This makes debugging enterprise XML or API responses dramatically easier.
-
----
-
-## 🎯 Real-World Use Cases
+## 🎯 Use Cases
 
 * Flatten nested XML into CSV-ready format
 * Debug API responses
@@ -94,43 +97,22 @@ This makes debugging enterprise XML or API responses dramatically easier.
 
 ---
 
-## 🧩 Future Enhancements (If You Want to Level Up)
-
-Here’s how you make this next-level:
-
-* Add XML schema validation (XSD support)
-* Add CSV export directly
-* Add XML diff comparison feature
-* Add drag-and-drop file support
-* Add Dockerfile for container deployment
-
-Recruiters love roadmap thinking.
-
----
-
-## 🤝 Contributing
-
-PRs are welcome.
-
-```bash
-git checkout -b feature/AmazingFeature
-git commit -m "Add AmazingFeature"
-git push origin feature/AmazingFeature
-```
-
-Then open a Pull Request.
-
----
-
 ## 📜 License
 
 MIT License.
 
 ---
 
-## ⭐ If This Helped You
+### Quick Pro Tip
 
-Drop a star on GitHub.
-Visibility = credibility.
+If you have actual screenshots from your app, replace the preview section with:
+
+```html
+<div align="center">
+  <img src="demo/structure.png" width="900" style="border-radius:10px;">
+</div>
+```
+
+Real screenshots > generic visuals. Always.
 
 ---
