@@ -11,6 +11,8 @@ A modern, end-to-end XML processing application built with **Python + Gradio**, 
 
 ![Banner](https://cdn.dribbble.com/userupload/12157698/file/original-5eb542012b145e7edf701e23c9e7ed22.png)
 
+![System Architecture](https://raw.githubusercontent.com/soumadeep-dey/Movie-Recommendation-System/8ae1db904d3aad26bfcc4c08b35eb9f7692639f2/image/System%20Architecture.jpg)
+
 ---
 
 ## ✨ Product Overview
